@@ -1,0 +1,23 @@
+.main-div
+{
+    width: 840px; 
+    height: 840px; 
+    background-color: #2c110a; 
+    display: inline-block; 
+    border: 18px solid #2c110a;
+    border-radius: 40px;
+}
+
+.main-div .div-color-1
+{
+    width: 100px; 
+    height: 100px; 
+    background-color:  #2c110a;
+}
+
+.main-div .div-color-2
+{
+    width: 100px; 
+    height: 100px; 
+    background-color: #ffffff;
+}
